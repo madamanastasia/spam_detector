@@ -46,3 +46,8 @@ ATT_Spam_Detector_.ipynb : Le notebook complet avec le code, les commentaires et
 
 spam.csv : Dossier contenant le dataset original (SMS Spam Collection).
 
+## 👤 Auteur
+
+Anastasiia Belosludtseva
+
+
